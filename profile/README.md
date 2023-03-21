@@ -7,4 +7,4 @@ This is the organization profile for CosmicK9.net, a website that represents me,
 This is my personal website. There isn't anything hosting on the domain yet, but I plan to develop a single-page web app that will tell you all you need to know about me and my hobbies.
 
 ## Contact
-If you want to contact me, you can do so on my [Akkoma](https://soc.cosmick9.net/cosmick9) account, or you can email me at [collin@cosmick9.net](mailto:collin@cosmick9.net).
+If you want to contact me, you can do so on my [Mastodon](https://bark.lgbt/@cosmick9) account, or you can email me at [collin@cosmick9.net](mailto:collin@cosmick9.net).
