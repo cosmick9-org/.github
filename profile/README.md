@@ -2,8 +2,6 @@
 This is the organization profile for CosmicK9.net, a website that represents me, Collin Atworth, and my various projects.
 
 ## Projects
-### [soc.cosmicK9.net](https://soc.cosmick9.net)
-This is an Akkoma instance that I run. It is a social network that is similar to Twitter, but it is decentralized and open source. It is also a lot more fun.
 
 ### [cosmicK9.net](https://cosmick9.net)
 This is my personal website. There isn't anything hosting on the domain yet, but I plan to develop a single-page web app that will tell you all you need to know about me and my hobbies.
